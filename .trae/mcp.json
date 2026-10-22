@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "_comment": "阶段2将在此配置 Ozon API 的 MCP 服务。当前阶段无需配置，飞书能力通过 TRAE 内置 lark 插件提供。"
+  }
+}
